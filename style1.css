@@ -1,0 +1,21 @@
+.pickr-container {
+  position: fixed;
+  left: 50%;
+  top: 80px;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 7px 7px;
+  background: #D70E31;
+  border: 2px solid #000;
+  box-shadow: 0 15px 30px rgba(52,87,220,0.2);
+  transform: translateX(-50%);
+  transition: all 0.3s ease;
+}
+.pcr-app {
+  position: fixed;
+  left: 50%;
+}
